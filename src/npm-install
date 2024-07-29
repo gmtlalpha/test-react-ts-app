@@ -1,0 +1,8 @@
+npx create-react-app react-ts-app --template typescript
+npm i react-router-dom@5.3.3
+npm i @types/react-router-dom -d
+npm i react-transition-group
+npm i --save-dev @types/react-transition-group
+
+
+web-vitals

@@ -1,0 +1,19 @@
+[
+    {
+        "name": "Portland",
+        "producerName": "string",
+        "beverageName": "string",
+        "beverageColor": "string",
+        "beverageStyle": "string",
+        "producerLocation": "Portland"
+
+    },
+    {
+        "name": "string",
+        "producerName": "string",
+        "beverageName": "string",
+        "beverageColor": "string",
+        "beverageStyle": "string",
+        "producerLocation": "string"
+    }
+]
